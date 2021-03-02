@@ -6,6 +6,9 @@ pylambda: a lambda calculus interpreter written in python
 
 pylamdbda relies on PLY (Python Lex Yacc). 
 You can find it at http://www.dabeaz.com/ply/
+or install with 
+$ pip3 install ply
+
 
 2. Running the interpreter
 --------------------------
